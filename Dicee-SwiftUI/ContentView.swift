@@ -34,6 +34,7 @@ struct ContentView: View {
                             .foregroundColor(.white)
                             .padding(.horizontal)
                             
+                        
                             
                     }
                     .background(.red)
